@@ -14,6 +14,8 @@ Training data used for the development of the machine learning (ML) models and s
 
 The codes in this repository are developed by Murat Cihan Sorkun and Séverin Astruc.
 
+![alt text](https://raw.githubusercontent.com/mcsorkun/V2DB/master/images/v2db-flow-chart.png)
+
 # How to Run
 
 All the materails are deposited into CodeOcean for easy reproduction. - https://doi.org/10.24433/CO.7049461.v1
